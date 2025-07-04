@@ -49,10 +49,10 @@
     }
 
     button {
-      
+
       width: 100px;
       height: 35px;
-      background-color: #5a86f3;
+      background-color: #4e6cfb;
       color: #ffffff;
       font-size: 15px;
       border: 1px solid #fdfeff;
@@ -61,7 +61,7 @@
       &:hover,
       &.active {
         background-color: #ffffff;
-        color: #5a86f3;
+        color: #4e6cfb;
       }
     }
   .active-btn {
@@ -73,13 +73,13 @@
 }
 
 .active-btn {
-  background-color: #5a86f3;
+  background-color: #4e6cfb;
   color: #ffffff;
 }
 
 .not-active-btn {
   background-color: #ffffff;
-  color: #5a86f3;
+  color: #4e6cfb;
 }
 
 

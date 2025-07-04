@@ -28,7 +28,7 @@
     cursor: pointer;
 
     &.selected {
-      border-color: #007bff;
+      border-color: #4f46e5;
     }
 
     img {
@@ -48,6 +48,7 @@
 
   .section {
     margin-bottom: 20px;
+    // width: 800px;
 
     h4 {
       margin-bottom: 8px;
@@ -84,13 +85,13 @@
       transition: background 0.2s;
 
       &.clear {
-        background: #e0e0e0;
-        color: #333;
+        background: #827cf5;
+        color: #fff;
       }
 
       &.submit {
-        background: #b6efc3;
-        color: #2a7a3f;
+        background: #4f46e5;
+        color: #fff;
       }
     }
   }
